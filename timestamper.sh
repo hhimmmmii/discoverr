@@ -1,3 +1,5 @@
+#! /usr/bin/bash
+
 # appending timestamp to log
 echo " " >> discoverr.log
 echo "############################################" >> discoverr.log;

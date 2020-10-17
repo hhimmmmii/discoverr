@@ -1,12 +1,11 @@
-discoverr_path=($PWD)
+#! /usr/bin/bash
+
 # create dir for the tool
 mkdir discoverr/
+mkdir discoverr/logs/
 
 # navigate to the folder
-cd discoverr/
+cd discoverr/logs/
 
-# create dir to store outputs
-cd logs/
-
-# touch a new file to store data
+#touch a new file to store data
 sudo touch discoverr.log

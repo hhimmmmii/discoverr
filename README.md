@@ -12,3 +12,8 @@ A script that provides a nice CLI interface for the Nmap Tool for network mappin
  - *timestamper.sh" appends timestamp into the log file
 
  - *nmap_status_checker.sh* is used to check if nmap tool is installed on system
+
+
+
+
+## Temporarily Suspended
